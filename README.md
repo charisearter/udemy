@@ -1,3 +1,3 @@
 # udemy - Practice class
 
-Learning how to make themes in Wordpress
+A Wordpress theme with FSE support
